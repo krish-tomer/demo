@@ -1,2 +1,3 @@
 # demo
-my first repositories
+my first repositor
+Autho- Krish Tomer
